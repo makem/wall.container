@@ -1,0 +1,17 @@
+{
+    "name": "wall.container",
+    "version": "0.0.1",
+    "description": "Wall engine container",
+    "main": "./container",
+    "scripts": {
+    },
+    "author": "Maxim Vyhovskyi",
+    "license": "ISC",
+    "dependencies":{
+
+    },
+    "devDependencies": {
+        "mocha": "^2.0.1",
+        "should": "^4.1.0"
+    }
+}
